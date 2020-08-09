@@ -13,7 +13,7 @@ class Layer:
         raise NotImplementedError
 
 def xavier_init(input_dims, output_dims):
-    print("xavier")
+    #print("xavier")
     return np.random.normal(
             scale=np.sqrt(2 / (input_dims + output_dims)),
             size=(input_dims, output_dims),
