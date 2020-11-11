@@ -4,10 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+I am Jagriti Goswami, currently pursuing M.Tech in Computer Science from NIT Jamshedpur,India.
+Recently developed an interest in Machine learning and motivated to explore more in this field.
+You can find me on my [LinkedIn](https://www.linkedin.com/in/jagriti-goswami-1ba7b3104)
