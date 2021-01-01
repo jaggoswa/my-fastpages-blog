@@ -1,22 +1,30 @@
 Date,State,Confirmed,Recovered,Deceased,Other,Tested
+2020-01-01,Nagaland,0,0,0,0,120397
 2020-01-30,Kerala,1,0,0,0,
+2020-01-30,Nagaland,0,0,0,0,120397
 2020-01-30,India,1,0,0,0,
 2020-02-02,Kerala,2,0,0,0,
+2020-02-02,Nagaland,0,0,0,0,120397
 2020-02-02,India,2,0,0,0,
 2020-02-03,Kerala,3,0,0,0,
+2020-02-03,Nagaland,0,0,0,0,120397
 2020-02-03,India,3,0,0,0,
 2020-02-14,Kerala,3,3,0,0,
+2020-02-14,Nagaland,0,0,0,0,120397
 2020-02-14,India,3,3,0,0,
 2020-02-20,Kerala,3,3,0,0,
+2020-02-20,Nagaland,0,0,0,0,120397
 2020-02-20,Punjab,0,0,0,0,3675493
 2020-02-20,India,3,3,0,0,
 2020-03-02,Delhi,1,0,0,0,
 2020-03-02,Kerala,3,3,0,0,
+2020-03-02,Nagaland,0,0,0,0,120397
 2020-03-02,Punjab,0,0,0,0,3675493
 2020-03-02,Telangana,1,0,0,0,
 2020-03-02,India,5,3,0,0,
 2020-03-03,Delhi,1,0,0,0,
 2020-03-03,Kerala,3,3,0,0,
+2020-03-03,Nagaland,0,0,0,0,120397
 2020-03-03,Punjab,0,0,0,0,3675493
 2020-03-03,Rajasthan,1,0,0,0,
 2020-03-03,Telangana,1,0,0,0,
@@ -24,6 +32,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-03-04,Delhi,1,0,0,0,
 2020-03-04,Haryana,14,0,0,0,
 2020-03-04,Kerala,3,3,0,0,
+2020-03-04,Nagaland,0,0,0,0,120397
 2020-03-04,Punjab,0,0,0,0,3675493
 2020-03-04,Rajasthan,2,0,0,0,
 2020-03-04,Telangana,1,0,0,0,
@@ -32,6 +41,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-03-05,Delhi,2,0,0,0,
 2020-03-05,Haryana,14,0,0,0,
 2020-03-05,Kerala,3,3,0,0,
+2020-03-05,Nagaland,0,0,0,0,120397
 2020-03-05,Punjab,0,0,0,0,3675493
 2020-03-05,Rajasthan,2,0,0,0,
 2020-03-05,Telangana,1,0,0,0,
@@ -40,6 +50,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-03-06,Delhi,3,0,0,0,
 2020-03-06,Haryana,14,0,0,0,
 2020-03-06,Kerala,3,3,0,0,
+2020-03-06,Nagaland,0,0,0,0,120397
 2020-03-06,Punjab,0,0,0,0,3675493
 2020-03-06,Rajasthan,2,0,0,0,
 2020-03-06,Telangana,1,0,0,0,
@@ -49,6 +60,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-03-07,Haryana,14,0,0,0,
 2020-03-07,Kerala,3,3,0,0,
 2020-03-07,Ladakh,2,0,0,0,
+2020-03-07,Nagaland,0,0,0,0,120397
 2020-03-07,Punjab,0,0,0,0,3675493
 2020-03-07,Rajasthan,2,0,0,0,
 2020-03-07,Telangana,1,0,0,0,
@@ -59,6 +71,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-03-08,Haryana,14,0,0,0,
 2020-03-08,Kerala,8,3,0,0,
 2020-03-08,Ladakh,2,0,0,0,
+2020-03-08,Nagaland,0,0,0,0,120397
 2020-03-08,Punjab,0,0,0,0,3675493
 2020-03-08,Rajasthan,2,0,0,0,
 2020-03-08,Telangana,1,0,0,0,
@@ -72,6 +85,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-03-09,Kerala,9,3,0,0,
 2020-03-09,Ladakh,2,0,0,0,
 2020-03-09,Maharashtra,2,0,0,0,
+2020-03-09,Nagaland,0,0,0,0,120397
 2020-03-09,Punjab,1,0,0,0,3675493
 2020-03-09,Rajasthan,2,0,0,0,
 2020-03-09,Telangana,1,0,0,0,
@@ -85,6 +99,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-03-10,Kerala,17,3,0,0,
 2020-03-10,Ladakh,2,0,0,0,
 2020-03-10,Maharashtra,5,0,0,0,
+2020-03-10,Nagaland,0,0,0,0,120397
 2020-03-10,Punjab,1,0,0,0,3675493
 2020-03-10,Rajasthan,3,0,0,0,
 2020-03-10,Telangana,1,0,0,0,
@@ -98,6 +113,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-03-11,Kerala,17,3,0,0,
 2020-03-11,Ladakh,3,0,0,0,
 2020-03-11,Maharashtra,11,0,0,0,
+2020-03-11,Nagaland,0,0,0,0,120397
 2020-03-11,Punjab,1,0,0,0,3675493
 2020-03-11,Rajasthan,3,0,0,0,
 2020-03-11,Telangana,1,0,0,0,
@@ -112,6 +128,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-03-12,Kerala,19,3,0,0,
 2020-03-12,Ladakh,3,0,0,0,
 2020-03-12,Maharashtra,14,0,0,0,
+2020-03-12,Nagaland,0,0,0,0,120397
 2020-03-12,Punjab,1,0,0,0,3675493
 2020-03-12,Rajasthan,3,0,0,0,
 2020-03-12,Telangana,1,0,0,0,
@@ -126,6 +143,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-03-13,Kerala,22,3,0,0,
 2020-03-13,Ladakh,3,0,0,0,
 2020-03-13,Maharashtra,17,0,0,0,
+2020-03-13,Nagaland,0,0,0,0,120397
 2020-03-13,Punjab,1,0,0,0,3675493
 2020-03-13,Rajasthan,3,0,0,0,
 2020-03-13,Telangana,1,0,0,0,
@@ -141,6 +159,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-03-14,Kerala,22,3,0,0,
 2020-03-14,Ladakh,3,0,0,0,
 2020-03-14,Maharashtra,26,0,0,0,
+2020-03-14,Nagaland,0,0,0,0,120397
 2020-03-14,Punjab,1,0,0,0,3675493
 2020-03-14,Rajasthan,4,0,0,0,
 2020-03-14,Telangana,2,0,0,0,
@@ -156,6 +175,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-03-15,Kerala,24,3,0,0,
 2020-03-15,Ladakh,3,0,0,0,
 2020-03-15,Maharashtra,32,0,0,0,
+2020-03-15,Nagaland,0,0,0,0,120397
 2020-03-15,Punjab,1,0,0,0,3675493
 2020-03-15,Rajasthan,4,0,0,0,
 2020-03-15,Telangana,3,0,0,0,
@@ -172,6 +192,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-03-16,Kerala,27,3,0,0,
 2020-03-16,Ladakh,3,0,0,0,
 2020-03-16,Maharashtra,39,0,0,0,
+2020-03-16,Nagaland,0,0,0,0,120397
 2020-03-16,Odisha,1,0,0,0,
 2020-03-16,Punjab,1,0,0,0,3675493
 2020-03-16,Rajasthan,4,0,0,0,
@@ -189,6 +210,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-03-17,Kerala,27,3,0,0,
 2020-03-17,Ladakh,8,0,0,0,
 2020-03-17,Maharashtra,41,0,0,0,
+2020-03-17,Nagaland,0,0,0,0,120397
 2020-03-17,Odisha,1,0,0,0,
 2020-03-17,Punjab,1,0,0,0,3675493
 2020-03-17,Puducherry,1,0,0,0,
@@ -208,6 +230,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-03-18,Kerala,27,3,0,0,
 2020-03-18,Ladakh,8,0,0,0,
 2020-03-18,Maharashtra,45,0,0,0,
+2020-03-18,Nagaland,0,0,0,0,120397
 2020-03-18,Odisha,1,0,0,0,
 2020-03-18,Punjab,1,0,0,0,3675493
 2020-03-18,Puducherry,1,0,0,0,
@@ -230,6 +253,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-03-19,Kerala,28,3,0,0,
 2020-03-19,Ladakh,8,0,0,0,
 2020-03-19,Maharashtra,48,0,0,0,
+2020-03-19,Nagaland,0,0,0,0,120397
 2020-03-19,Odisha,2,0,0,0,
 2020-03-19,Punjab,2,0,0,0,3675493
 2020-03-19,Puducherry,1,0,0,0,
@@ -253,6 +277,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-03-20,Ladakh,10,0,0,0,
 2020-03-20,Maharashtra,52,0,0,0,
 2020-03-20,Madhya Pradesh,4,0,0,0,
+2020-03-20,Nagaland,0,0,0,0,120397
 2020-03-20,Odisha,2,0,0,0,
 2020-03-20,Punjab,3,0,0,0,3675493
 2020-03-20,Puducherry,1,0,0,0,
@@ -276,6 +301,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-03-21,Ladakh,13,0,0,0,
 2020-03-21,Maharashtra,64,0,0,0,
 2020-03-21,Madhya Pradesh,4,0,0,0,
+2020-03-21,Nagaland,0,0,0,0,120397
 2020-03-21,Odisha,2,0,0,0,
 2020-03-21,Punjab,13,0,0,0,3675493
 2020-03-21,Puducherry,1,0,0,0,
@@ -300,6 +326,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-03-22,Ladakh,13,0,0,0,
 2020-03-22,Maharashtra,74,0,0,0,
 2020-03-22,Madhya Pradesh,6,0,0,0,
+2020-03-22,Nagaland,0,0,0,0,120397
 2020-03-22,Odisha,2,0,0,0,
 2020-03-22,Punjab,21,0,0,0,3675493
 2020-03-22,Puducherry,1,0,0,0,
@@ -324,6 +351,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-03-23,Ladakh,13,0,0,0,
 2020-03-23,Maharashtra,89,0,0,0,
 2020-03-23,Madhya Pradesh,6,0,0,0,
+2020-03-23,Nagaland,0,0,0,0,120397
 2020-03-23,Odisha,2,0,0,0,
 2020-03-23,Punjab,23,0,0,0,3675493
 2020-03-23,Puducherry,1,0,0,0,
@@ -349,6 +377,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-03-24,Maharashtra,107,0,0,0,
 2020-03-24,Manipur,1,0,0,0,
 2020-03-24,Madhya Pradesh,7,0,0,0,
+2020-03-24,Nagaland,0,0,0,0,120397
 2020-03-24,Odisha,2,0,0,0,
 2020-03-24,Punjab,29,0,0,0,3675493
 2020-03-24,Puducherry,1,0,0,0,
@@ -376,6 +405,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-03-25,Manipur,1,0,0,0,
 2020-03-25,Madhya Pradesh,15,0,0,0,
 2020-03-25,Mizoram,1,0,0,0,
+2020-03-25,Nagaland,0,0,0,0,120397
 2020-03-25,Odisha,2,0,0,0,
 2020-03-25,Punjab,31,0,0,0,3675493
 2020-03-25,Puducherry,1,0,0,0,
@@ -404,6 +434,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-03-26,Manipur,1,0,0,0,
 2020-03-26,Madhya Pradesh,20,0,0,0,
 2020-03-26,Mizoram,1,0,0,0,
+2020-03-26,Nagaland,0,0,0,0,120397
 2020-03-26,Odisha,3,0,0,0,
 2020-03-26,Punjab,33,0,0,0,3675493
 2020-03-26,Puducherry,1,0,0,0,
@@ -432,6 +463,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-03-27,Manipur,1,0,0,0,
 2020-03-27,Madhya Pradesh,29,0,0,0,
 2020-03-27,Mizoram,1,0,0,0,
+2020-03-27,Nagaland,0,0,0,0,120397
 2020-03-27,Odisha,3,0,0,0,
 2020-03-27,Punjab,38,0,0,0,3675493
 2020-03-27,Puducherry,1,0,0,0,
@@ -460,6 +492,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-03-28,Manipur,1,0,0,0,
 2020-03-28,Madhya Pradesh,39,0,0,0,
 2020-03-28,Mizoram,1,0,0,0,
+2020-03-28,Nagaland,0,0,0,0,120397
 2020-03-28,Odisha,3,0,0,0,
 2020-03-28,Punjab,38,0,0,0,3675493
 2020-03-28,Puducherry,1,0,0,0,
@@ -488,6 +521,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-03-29,Manipur,1,0,0,0,
 2020-03-29,Madhya Pradesh,39,0,2,0,
 2020-03-29,Mizoram,1,0,0,0,
+2020-03-29,Nagaland,0,0,0,0,120397
 2020-03-29,Odisha,3,0,0,0,
 2020-03-29,Punjab,38,1,1,0,3675493
 2020-03-29,Puducherry,1,0,0,0,
@@ -516,6 +550,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-03-30,Manipur,1,0,0,0,
 2020-03-30,Madhya Pradesh,47,0,4,0,
 2020-03-30,Mizoram,1,0,0,0,
+2020-03-30,Nagaland,0,0,0,0,120397
 2020-03-30,Odisha,3,0,0,0,
 2020-03-30,Punjab,41,1,3,0,3675493
 2020-03-30,Puducherry,1,0,0,0,
@@ -546,6 +581,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-03-31,Manipur,1,0,0,0,
 2020-03-31,Madhya Pradesh,66,0,5,0,
 2020-03-31,Mizoram,1,0,0,0,
+2020-03-31,Nagaland,0,0,0,0,120397
 2020-03-31,Odisha,4,0,0,0,
 2020-03-31,Punjab,42,1,4,0,3675493
 2020-03-31,Puducherry,1,0,0,0,
@@ -576,6 +612,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-04-01,Manipur,1,0,0,0,
 2020-04-01,Madhya Pradesh,98,0,6,0,
 2020-04-01,Mizoram,1,0,0,0,
+2020-04-01,Nagaland,0,0,0,0,120397
 2020-04-01,Odisha,5,1,0,0,
 2020-04-01,Punjab,46,1,4,0,3675493
 2020-04-01,Puducherry,3,0,0,0,
@@ -607,6 +644,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-04-02,Manipur,2,0,0,0,
 2020-04-02,Madhya Pradesh,107,0,8,0,
 2020-04-02,Mizoram,1,0,0,0,
+2020-04-02,Nagaland,0,0,0,0,120397
 2020-04-02,Odisha,5,1,0,0,
 2020-04-02,Punjab,47,1,5,0,1434
 2020-04-02,Puducherry,5,0,0,0,
@@ -638,6 +676,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-04-03,Manipur,2,0,0,0,
 2020-04-03,Madhya Pradesh,154,0,8,0,
 2020-04-03,Mizoram,1,0,0,0,
+2020-04-03,Nagaland,0,0,0,0,120397
 2020-04-03,Odisha,20,2,0,0,1395
 2020-04-03,Punjab,53,1,5,0,1434
 2020-04-03,Puducherry,5,0,0,0,
@@ -669,6 +708,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-04-04,Manipur,2,0,0,0,
 2020-04-04,Madhya Pradesh,179,0,11,0,
 2020-04-04,Mizoram,1,0,0,0,
+2020-04-04,Nagaland,0,0,0,0,120397
 2020-04-04,Odisha,21,2,0,0,1395
 2020-04-04,Punjab,65,3,5,0,1434
 2020-04-04,Puducherry,5,0,0,0,
@@ -700,6 +740,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-04-05,Manipur,2,0,0,0,
 2020-04-05,Madhya Pradesh,193,3,13,0,2812
 2020-04-05,Mizoram,1,0,0,0,
+2020-04-05,Nagaland,0,0,0,0,120397
 2020-04-05,Odisha,39,2,0,0,1395
 2020-04-05,Punjab,68,4,7,0,1434
 2020-04-05,Puducherry,5,0,0,0,
@@ -10418,7 +10459,7 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-12-30,Uttar Pradesh,584966,562459,8352,0,23793270
 2020-12-30,Uttarakhand,90616,82967,1504,1182,1764992
 2020-12-30,West Bengal,550893,528829,9683,0,7070176
-2020-12-31,Andaman and Nicobar Islands,4945,4826,62,0,180626
+2020-12-31,Andaman and Nicobar Islands,4945,4826,62,0,181640
 2020-12-31,Andhra Pradesh,882286,871916,7108,0,11825566
 2020-12-31,Arunachal Pradesh,16719,16564,56,0,378151
 2020-12-31,Assam,216211,211907,1045,3,5997450
@@ -10435,12 +10476,12 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-12-31,Jammu and Kashmir,120971,116079,1883,0,3822674
 2020-12-31,Karnataka,919496,896116,12090,19,14078158
 2020-12-31,Kerala,760934,692480,3073,179,7911934
-2020-12-31,Ladakh,9466,9143,127,0,105350
+2020-12-31,Ladakh,9466,9143,127,0,105617
 2020-12-31,Maharashtra,1932112,1828546,49521,1143,12747633
 2020-12-31,Meghalaya,13427,13139,139,0,291959
 2020-12-31,Manipur,28188,26678,355,0,474524
 2020-12-31,Madhya Pradesh,241791,228831,3606,0,4641648
-2020-12-31,Mizoram,4204,4098,8,0,177387
+2020-12-31,Mizoram,4204,4098,8,0,179594
 2020-12-31,Nagaland,11927,11514,79,132,120246
 2020-12-31,Odisha,329621,325432,1926,0,6946965
 2020-12-31,Punjab,166522,157496,5341,0,3900473
@@ -10450,7 +10491,43 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested
 2020-12-31,Telangana,286354,278839,1541,0,6882694
 2020-12-31,Tamil Nadu,818014,797391,12122,0,14191494
 2020-12-31,Tripura,33261,32728,382,23,578723
-2020-12-31,India,10286329,9881786,149018,2857,172049574
+2020-12-31,India,10286329,9881786,149018,2857,173111994
 2020-12-31,Uttar Pradesh,584966,562459,8352,0,23943169
 2020-12-31,Uttarakhand,90920,83506,1509,1186,1777371
 2020-12-31,West Bengal,552063,530366,9712,0,7110430
+2021-01-01,Andaman and Nicobar Islands,4946,4830,62,0,181640
+2021-01-01,Andhra Pradesh,882612,872266,7108,0,11884085
+2021-01-01,Arunachal Pradesh,16719,16564,56,0,378151
+2021-01-01,Assam,216211,211907,1045,3,5997450
+2021-01-01,Bihar,253255,247089,1400,1,18442165
+2021-01-01,Chandigarh,19799,19109,318,0,182063
+2021-01-01,Chhattisgarh,280507,265788,3375,0,3537635
+2021-01-01,Delhi,625954,610039,10557,0,8740395
+2021-01-01,Dadra and Nagar Haveli and Daman and Diu,3364,3320,2,29,72410
+2021-01-01,Goa,51135,49466,739,0,400669
+2021-01-01,Gujarat,245772,231900,4309,0,9706300
+2021-01-01,Himachal Pradesh,55470,52104,924,48,780439
+2021-01-01,Haryana,262611,256386,2911,0,4580194
+2021-01-01,Jharkhand,115241,112529,1030,0,4813200
+2021-01-01,Jammu and Kashmir,121227,116327,1884,0,3851827
+2021-01-01,Karnataka,920373,897200,12096,19,14196065
+2021-01-01,Kerala,765925,697591,3096,179,7964724
+2021-01-01,Ladakh,9466,9143,127,0,105617
+2021-01-01,Maharashtra,1935636,1832825,49580,1147,12823834
+2021-01-01,Meghalaya,13427,13139,139,0,291959
+2021-01-01,Manipur,28188,26678,355,0,474524
+2021-01-01,Madhya Pradesh,241791,228831,3606,0,4670398
+2021-01-01,Mizoram,4216,4100,8,0,180519
+2021-01-01,Nagaland,11927,11514,79,132,120246
+2021-01-01,Odisha,329866,325733,1929,0,6976108
+2021-01-01,Punjab,166770,157904,5349,0,3921171
+2021-01-01,Puducherry,38132,37115,633,0,488451
+2021-01-01,Rajasthan,308852,296929,2700,0,5285777
+2021-01-01,Sikkim,5900,5144,128,94,68909
+2021-01-01,Telangana,286815,279456,1544,0,6924707
+2021-01-01,Tamil Nadu,818935,798420,12135,0,14258645
+2021-01-01,Tripura,33265,32756,382,23,580269
+2021-01-01,India,10303409,9901929,149205,2861,173111994
+2021-01-01,Uttar Pradesh,584966,562459,8352,0,24087257
+2021-01-01,Uttarakhand,90920,83506,1509,1186,1791371
+2021-01-01,West Bengal,553216,531862,9738,0,7149539
