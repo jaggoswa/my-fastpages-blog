@@ -1,0 +1,72 @@
+{
+  
+    
+        "post0": {
+            "title": "Distinguish Your Own Digits ",
+            "content": "You are going to write a classifier that distinguishes between the number 3 and number 8. . Preparing the Data . train_images = mnist.train_images() train_labels = mnist.train_labels() . test_images = mnist.test_images() test_labels = mnist.test_labels() . Filtering data to get 3 and 8 out . train_filter = np.where((train_labels == 3 ) | (train_labels == 8)) test_filter = np.where((test_labels == 3) | (test_labels == 8)) X_train, y_train = train_images[train_filter], train_labels[train_filter] X_test, y_test = test_images[test_filter], test_labels[test_filter] . We normalize the pizel values in the 0 to 1 range . X_train = X_train/255. X_test = X_test/255. . And setting up the labels as 1 (when the digit is 3) and 0 (when the digit is 8) . y_train = 1*(y_train==3) y_test = 1*(y_test==3) . We reshape the data to flatten the image pixels into a set of features or co-variates: . X_train = X_train.reshape(X_train.shape[0], -1) X_test = X_test.reshape(X_test.shape[0], -1) . y_train = y_train.reshape(-1,1) y_test = y_test.reshape(-1,1) . data = Data(X_train, y_train) loss = BCE() #Binary Cross Entropy Loss function . Initialisations . class Config: pass config = Config() config.lr = 0.001 config.num_epochs = 200 config.bs = 50 . opt = GD(config.lr) sampler = Sampler(data, config.bs, shuffle=True) dl = Dataloader(data, sampler) . Putting the layers together . layers = [Affine(&quot;first&quot;, 784, 100), Relu(&quot;relu&quot;), Affine(&quot;second&quot;, 100, 100), Relu(&quot;relu&quot;), Affine(&quot;third&quot;, 100, 2), Affine(&quot;final&quot;, 2, 1),Sigmoid(&quot;sigmoid&quot;)] model = Model(layers); . Training the model . Neural Network Implementation . learner = Learner(loss, model, opt, config.num_epochs) acc = ClfCallback(learner, config.bs, X_train, y_train, X_test, y_test) learner.set_callbacks([acc]) . plt.figure(figsize=(10, 6)) plt.plot(acc.losses); . Logistic Regression Implementation . LR_layers = [Affine(&quot;logits&quot;, 784, 1), Sigmoid(&quot;sigmoid&quot;)]; . LR_model = Model(LR_layers) . LR_learner = Learner(loss, LR_model, opt, config.num_epochs) LR_acc = ClfCallback(LR_learner, config.bs, X_train, y_train, X_test, y_test) LR_learner.set_callbacks([LR_acc]) . plt.figure(figsize=(10, 6)) plt.plot(acc.accuracies,&#39;b-&#39;, label = &quot;NN Train accuracy&quot;) plt.plot(acc.test_accuracies,&#39;r-&#39;, label = &quot;NN Test accuracy&quot;) plt.plot(LR_acc.accuracies,&#39;g-&#39;, label = &quot;LR Train accuracy&quot;) plt.plot(LR_acc.test_accuracies,&#39;b-&#39;, label = &quot;LR Test accuracy&quot;) plt.title(&quot;Neural Network vs Logistic Regression&quot;) plt.legend(); . It can be seen from the above figure that while for the Neural Network model is already overfitting, the validation accuracy has dipped below the training accuracy and they are diverging, its not the case for Linear Regression . Confusion Matrix . probs = model(X_test) predictions = 1*(probs &gt;= 0.5) . c_matrix = confusion_matrix(y_test, predictions) print(f&quot;Confusion Matrix: {c_matrix}&quot;) print(f&quot;False positive: {c_matrix[0][1]}&quot;) print(f&quot;False negative: {c_matrix[1][0]}&quot;) m_classify = c_matrix[0][1] + c_matrix[1][0] print(f&quot;Number of misclassifications: {m_classify}&quot;) . Confusion Matrix: [[960 14] [ 15 995]] False positive: 14 False negative: 15 Number of misclassifications: 29 . Our accuracy is quite high!! . Plotting data in the embedding space . def get_embedding(input): upto_embed = model.layers[:-2] for l in upto_embed: input = l(input) return input . ES = get_embedding(X_test) . X, y = make_classification(200, 2, 2, 0, weights=[.5, .5], random_state=15) clf = LogisticRegression().fit(X[:100], y[:100]) . xgrid = np.linspace(-10,10,100) ygrid = np.linspace(-10,10,100) xx, yy = np.meshgrid(xgrid,ygrid) grid = np.c_[xx.ravel(), yy.ravel()] probs = clf.predict_proba(grid)[:, 1].reshape(xx.shape) . plt.figure(figsize=(10, 6)) contour = plt.contour(xx, yy, probs, 25,vmin=0, vmax=1, alpha=0.5) plt.clabel(contour, inline=True, fontsize=8) plt.scatter(ES[:,0], ES[:,1], c = y_test.ravel(), cmap = &quot;spring&quot;, alpha=0.1) plt.colorbar(); . Actual vs Prediction . from matplotlib.lines import Line2D plt.figure(figsize=(10, 6)) plt.scatter(ES[:,0], ES[:,1], c = y_test.ravel(), marker = &quot;s&quot;, cmap = &quot;spring&quot;, alpha=0.05) plt.scatter(ES[:,0], ES[:,1], c = predictions.ravel(),marker = &quot;o&quot;, cmap = &quot;winter&quot;, alpha=0.01) legend_elements = [Line2D([0], [0], marker=&#39;s&#39;, color=&#39;w&#39;, label=&#39;Actual&#39;,markerfacecolor=&#39;b&#39;, markersize=10), Line2D([0], [0], marker=&#39;o&#39;, color=&#39;w&#39;, label=&#39;Prediction&#39;,markerfacecolor=&#39;b&#39;, markersize=10)] plt.legend(handles=legend_elements); .",
+            "url": "https://jaggoswa.github.io/my-fastpages-blog/fastpages/jupyter/2020/08/08/Part2-DYOD.html",
+            "relUrl": "/fastpages/jupyter/2020/08/08/Part2-DYOD.html",
+            "date": " • Aug 8, 2020"
+        }
+        
+    
+  
+    
+        ,"post1": {
+            "title": "COVID-19 India Matplotlib Overview",
+            "content": "An Exception was encountered at &#39;In [12]&#39;. . Execution using papermill encountered an exception here and stopped: .",
+            "url": "https://jaggoswa.github.io/my-fastpages-blog/fastpages/jupyter/2020/08/08/Part1-BYOB.html",
+            "relUrl": "/fastpages/jupyter/2020/08/08/Part1-BYOB.html",
+            "date": " • Aug 8, 2020"
+        }
+        
+    
+  
+
+  
+  
+
+  
+      ,"page1": {
+          "title": "About Me",
+          "content": "I am Jagriti Goswami, currently pursuing M.Tech in Computer Science from NIT Jamshedpur,India. Recently developed an interest in Machine learning and motivated to explore more in this field. You can find me on my LinkedIn .",
+          "url": "https://jaggoswa.github.io/my-fastpages-blog/about/",
+          "relUrl": "/about/",
+          "date": ""
+      }
+      
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+      ,"page10": {
+          "title": "",
+          "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
+          "url": "https://jaggoswa.github.io/my-fastpages-blog/robots.txt",
+          "relUrl": "/robots.txt",
+          "date": ""
+      }
+      
+  
+
+}
